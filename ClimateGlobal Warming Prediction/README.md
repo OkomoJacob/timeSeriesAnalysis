@@ -10,6 +10,7 @@
 ### Built With
 [Python3](https)
 [Data, CSV](https)
+[Statsmodels](https)
 ### 
 
 It is an unmaskable fact that, lately, there has been a negative trend in the rate of Global Average Temp.This is negatively impacting the gloabl population as most(if not all) depend directly on the climate.
