@@ -4,9 +4,9 @@ import pandas as pd
 import os
 
 print(os.getcwd())
-path = os.path.join
+data = os.path.join('data/', 'myPassengers.csv')
+dataset = pd.read_csv(data)
 """
-dataset = pd.read_csv('airPassengers.csv', usecols=[1], engine='python')
 plt.plot(dataset)
 plt.show()
 """
