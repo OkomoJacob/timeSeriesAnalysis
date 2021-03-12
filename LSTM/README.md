@@ -18,8 +18,9 @@ Having that in mind, LSTM can be `applicable` in complex problem domains e.g
   * High accuracy Weather Forecasting
   * More to achieve `state-of-the-art` results.
 
+#### Architecture
+It's is highly imperative to have an understanding of the overall achiteecture of the LSTM RNN, how the memory blocks are connected through the layers.
 
-
-Instead of neurons, LSTM networks have memory blocks that are connected through layers as shown in the arch
+Have a look at the architecture [here](img/architectures/architecture.png).
 
 A block has components that make it smarter than a classical neuron and a memory for recent sequences. A block contains gates that manage the block’s state and output. A block operates upon an input sequence and each gate within a block uses the sigmoid activation units to control whether they are triggered or not, making the change of state and addition of information flowing through the block conditional.
