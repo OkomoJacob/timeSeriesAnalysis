@@ -18,7 +18,7 @@ Having that in mind, LSTM can be `applicable` in complex problem domains e.g
   * High accuracy Weather Forecasting
   * More to achieve `state-of-the-art` results.
 
-#### Minimum basic requirements for a Recurrent Neural Network tto Work
+#### Minimum basic requirements for a Recurrent Neural Network to Work
 The system be able to:
   * Store information for an arbitrary duration.
   * Resist noise (i.e. fluctuations of the inputs that are random or irrelevant to predicting a correct output)
