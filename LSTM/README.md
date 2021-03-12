@@ -24,6 +24,7 @@ The system be able to:
   * Resist noise (i.e. fluctuations of the inputs that are random or irrelevant to predicting a correct output)
   * Have parameters that are trainable within a reasonable time, not our machine running out of memeory
 #### Architecture and operation of LSTM
+
 It's is highly imperative to have an understanding of the overall achiteecture of the LSTM RNN, how the memory blocks are connected through the layers.
 
 Have a look at the architecture [here](img/architectures/architecture.png).
