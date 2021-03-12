@@ -1,5 +1,6 @@
 ### Time Series Forecasting : Extrapolation
-Having aking predictions about the future is called extrapolation in the classical statistical handling of time series data.
+Having known the level of association between the dependent and dependent variables from analysis about the passt, making predictions about the future, also known as `Extrapolation` is possible.
+This is truest especially in the classical statistical modelling of time series data.
 
 More modern fields focus on the topic and refer to it as time series forecasting.
 
