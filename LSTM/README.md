@@ -39,3 +39,5 @@ As discussed briefly aabove,we have three types of gates within a LSTM-RNN unit:
   - [Forget Gate](https): conditionally decides what information to throw away from the block.
   - [Input Gate](https): conditionally decides which values from the input to update the memory state.
   - [Output Gate](htttps): conditionally decides what to output based on input and the memory of the block.
+  
+  
