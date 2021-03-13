@@ -62,3 +62,4 @@ STEP 4: Prepare the train and test datasets for modeling
 look_back = 1
 trainX, trainY = createDataset(train, look_back)
 testX, testY = createDataset(test, look_back)
+
