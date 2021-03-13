@@ -36,3 +36,5 @@ in your terminal or command line, run `pip3 install -r requirements.txt`.
 5. `Define a function to create a new dataset`
   * The function takes two arguments: the `dataset`, which is a NumPy array that we want to convert into a dataset, and the `look_back`, which is the number of previous time steps to use as input variables to predict the next time period — in this case defaulted to 1.
 
+6. Reshape the data in the form of `samples, time steps, features`
+  * The LSTM network expects the input data (X) to be provided with a specific array structure in the above specified form.
