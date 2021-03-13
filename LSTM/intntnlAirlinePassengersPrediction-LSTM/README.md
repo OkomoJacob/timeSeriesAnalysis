@@ -16,6 +16,7 @@ In a nutshell:
   - pandas
   - matplotlib
   - keras
+  - [Scikit-learn](https://scikit-learn.org/stable/)
   - tensorflow
   - numpy
 
@@ -56,15 +57,15 @@ Once the model is fit, check performace on the train and test datasets. This wil
 
 #### Errata
 
-Although I have taken every care to ensure the accuracy my our content, mistakes
+Although I have taken every care to ensure the accuracy my my content, mistakes
 do happen. If you find a mistake in this project—maybe a mistake in the text or
 the code—I would be grateful if you could report this to me via [mail](jaylabs2030@gmail.com) or via visiting my official [website](https://okomojacob.herokuapp.com). By doing so, you can
 save others from frustration and help me improve subsequent versions of this mini-project and related works. 
 
-
 #### Getting Further Help
-One of the greatest benefits of python is its great kind and helpful user community.
-For help with any aspect of related to python - from installation, to application design, to
-to deployment - feel free to ask questions online.
+One of the greatest benefits of `keras`, `python` and `deeplearning` is its great kind and helpful user community and heavy documentation.
+For help with any aspect of related to the above mentioned and related - from installation, to application design,to deployment - feel free to ask questions online in the appended links.
 
 • [The python official website](http://www.python.org)
+• [Keras official Documentation](https://keras.io/)
+• [scikit-learn](https://scikit-learn.org/stable/)
