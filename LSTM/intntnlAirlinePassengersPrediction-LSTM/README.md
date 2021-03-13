@@ -32,3 +32,7 @@ in your terminal or command line, run `pip3 install -r requirements.txt`.
 4.`Split the data into train and test`
   * For a normal classification or regression problem, we would use cross validation, however for time series data, the sequence of values is important. A simple method that we can use is to split the ordered dataset into train and test datasets.
   * Use about 70% for train and 30% for test using the 
+
+5. `Define a function to create a new dataset`
+  * The function takes two arguments: the `dataset`, which is a NumPy array that we want to convert into a dataset, and the `look_back`, which is the number of previous time steps to use as input variables to predict the next time period — in this case defaulted to 1.
+
