@@ -64,3 +64,5 @@ trainX, trainY = createDataset(train, look_back)
 testX, testY = createDataset(test, look_back)
 
 # Further reshape, by appending timestamps to our dataset
+trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+testX = np.reshape(testX, (testX.shape[0], 1, testX.shape[1]))
