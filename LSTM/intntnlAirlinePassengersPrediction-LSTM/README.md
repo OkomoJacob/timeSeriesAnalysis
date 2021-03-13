@@ -40,4 +40,6 @@ in your terminal or command line, run `pip3 install -r requirements.txt`.
   * The LSTM network expects the input data (X) to be provided with a specific array structure in the above specified form.
 
 7.  `Create and Fit the model` with the necessary training parameters, [epochs](https://deepai.org/machine-learning-glossary-and-terms/epoch) and [verbose](http://discuss.codingblocks.com/t/verbosity-mode-in-keras-callbacks/20529/2).
-8.  
+
+8.`Evaluate the performance of our model`
+Once the model is fit, check performace on the train and test datasets. This will give us a point of comparison for new models.  
