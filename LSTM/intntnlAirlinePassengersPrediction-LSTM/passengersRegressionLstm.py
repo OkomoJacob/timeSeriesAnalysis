@@ -11,3 +11,8 @@ import math
 
 # For reproduciblity, fix the random number seed.
 np.random.seed(7)
+
+# load the passenger dataset as a dataframe
+dataframe = pd.read_csv('airline-passengers.csv', usecols=[1], engine='python')
+dataset = dataframe.values
+dataset = dataset.astype('float32')
