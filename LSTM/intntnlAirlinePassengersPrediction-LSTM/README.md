@@ -53,3 +53,18 @@ Once the model is fit, check performace on the train and test datasets. This wil
     -  Original dataset in `blue` 
     -  The predictions for the training dataset in `green` 
     -  Predictions on the unseen test dataset in `red`
+
+#### Errata
+
+Although I have taken every care to ensure the accuracy my our content, mistakes
+do happen. If you find a mistake in this project—maybe a mistake in the text or
+the code—I would be grateful if you could report this to me via [mail](jaylabs2030@gmail.com) or via visiting my official [website](https://okomojacob.herokuapp.com). By doing so, you can
+save others from frustration and help me improve subsequent versions of this mini-project and related works. 
+
+
+#### Getting Further Help
+One of the greatest benefits of python is its great kind and helpful user community.
+For help with any aspect of related to python - from installation, to application design, to
+to deployment - feel free to ask questions online.
+
+• [The python official website](http://www.python.org)
