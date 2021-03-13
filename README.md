@@ -9,7 +9,7 @@ Descriptive models can borrow for the future (i.e. to smooth or remove noise), t
 ### Long Short-Term Memory Network(LSTM-NN)
 <hr>
 
-Long Short-Term Memory (LSTM) networks are a type of [Recurrent Neural Network(RNN)](link_here) that are trained using [Back Propagation](link) using data over a long period of time and are capable of learning order dependence in sequence prediction problems.
+Long Short-Term Memory (LSTM) networks are a type of [Recurrent Neural Network(RNN)](https://d1wqtxts1xzle7.cloudfront.net/31279335/___Recurrent_Neural_Networks_Design_And_Applicatio%28BookFi.org%29.pdf?1369075425=&response-content-disposition=inline%3B+filename%3DEffects_of_Liquid_and_Encapsulated_Lacti.pdf&Expires=1615627088&Signature=XHX~PcZuSaHUyIwCRus-hC4jb8DXlqU8u5wGEBHs9qyv4KOPu1fU4MugZ1R1eA-G1E~KFwWzYb1DfJk~np~VYpxYWD1lChkiKw8HPvqucha7RaGr6MLCvCBPFlNLeOd6zKowqtNT15Nom~YbV4DEKXCSPs3hLxnzADFZ6mUSqYNTvyQFs5ijkvqBRU76j6lwVzpIa9YX8HBSj4UD-vz63mK2IC-Ks-qNvzQx6fnlwAoURr2JoC~dUVkAHjo8nV1ZcKvnr3kXJJvNdtF~roaYycDqnb26gC-SCh8016Ce0CMuTwTJJiy2whFGlfxy6rBgQ7PKN9EmCHsUpSDAFK5TNg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) that are trained using [Back Propagation](link) using data over a long period of time and are capable of learning order dependence in sequence prediction problems.
 - Their main advantage is to overcome the problem of `vanishing gradient problem` that was initially seen in old traditional feed-foward ML models.
 
 Having that in mind, LSTM can be `applicable` in complex problem domains e.g 
