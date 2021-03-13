@@ -50,6 +50,6 @@ Once the model is fit, check performace on the train and test datasets. This wil
 10. Finally `Generate predictions` using the model for both the train and test dataset to get a visual indication of the skill of the model.
 - We must shift the predictions so that they align on the x-axis with the original dataset.
 - Once prepared, the data is plotted, showing the:
-    -  Original dataset in `yellow` 
+    -  Original dataset in `blue` 
     -  The predictions for the training dataset in `green` 
     -  Predictions on the unseen test dataset in `red`
