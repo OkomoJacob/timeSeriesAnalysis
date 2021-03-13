@@ -1,5 +1,4 @@
-
-
+# Import the necessary libraries,ffunctions and classes
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 from keras.models import Sequential
@@ -9,3 +8,4 @@ from keras.layers import LSTM
 import pandas
 import math
 import numpy
+
