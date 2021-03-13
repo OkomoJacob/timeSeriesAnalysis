@@ -41,5 +41,9 @@ in your terminal or command line, run `pip3 install -r requirements.txt`.
 
 7.  `Create and Fit the model` with the necessary training parameters, [epochs](https://deepai.org/machine-learning-glossary-and-terms/epoch) and [verbose](http://discuss.codingblocks.com/t/verbosity-mode-in-keras-callbacks/20529/2).
 
-8.`Evaluate the performance of our model`
-Once the model is fit, check performace on the train and test datasets. This will give us a point of comparison for new models.  
+8. `Evaluate the performance of our model`
+Once the model is fit, check performace on the train and test datasets. This will give us a point of comparison for new models. 
+
+9. `Make predicions`
+ 
+ To some extent, it's prudent to invert the predictions before calculating error scores to ensure that performance is reported in the same units as the original data.
