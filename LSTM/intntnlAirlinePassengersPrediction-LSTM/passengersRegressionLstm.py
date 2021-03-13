@@ -13,6 +13,9 @@ import math
 np.random.seed(7)
 
 # load the passenger dataset as a dataframe
+# Extract the NumPy array from the dataframe and convert the integer values to floating point values, 
+# which are more suitable for modeling with a neural network.
 dataframe = pd.read_csv('airline-passengers.csv', usecols=[1], engine='python')
 dataset = dataframe.values
 dataset = dataset.astype('float32')
+
