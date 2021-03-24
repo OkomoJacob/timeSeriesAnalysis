@@ -5,6 +5,8 @@
 - Time Series Use Cases
 - Tools and Requirements
 
+#### Time Series Data and Time Series Analysis
+[Time Series Data]() can be seen as temporal data, i.e that collected over time
 ### Built With
 
 
