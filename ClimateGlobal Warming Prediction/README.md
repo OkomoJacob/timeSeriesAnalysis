@@ -1,10 +1,6 @@
-# climate
+## Global Warming and Climate Change Prediction using Time Series Analysis
 
-[![Join the chat at https://gitter.im/gindeleo/climate](https://badges.gitter.im/gindeleo/climate.svg)](https://gitter.im/gindeleo/climate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Data analysis of earth surface temperature
-
-
-Global Land and Ocean-and-Land Temperatures (GlobalTemperatures.csv):
+It is an unmaskable fact that, lately, there has been a negative trend in the rate of Global Average Temp
 
 Date: starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures
 LandAverageTemperature: global average land temperature in celsius
