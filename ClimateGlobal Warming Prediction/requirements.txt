@@ -1,7 +1,7 @@
 # install these python libraries
 pandas
 numpy
-[Matplotlib](link)
-[Datetime](link)
+matplotlib
+datetime
 [Statsmodels](https)
 [Statstools](https)
