@@ -50,9 +50,10 @@ It is an unmaskable fact that, lately, there has been a negative trend in the ra
 #### Importance of Stationarity in Time Series Analysis
  Since Time Series assumes that each data point is independent from each other, and that statistical pperties of the data should not cchange over time, stationariy help us better understand and thus identify the Driving Parameters, to ensure consistence in correlation.
 
+### Data Overview
+
 Date: starts in 1743 for average land temperature.
 By 1850 , there were provisions for max and min land temperatures and global ocean and land temperatures
-LandAverageTemperature: global average land temperature in celsius
 LandAverageTemperatureUncertainty: the 95% confidence interval around the average
 LandMaxTemperature: global average maximum land temperature in celsius
 LandMaxTemperatureUncertainty: the 95% confidence interval around the maximum land temperature
