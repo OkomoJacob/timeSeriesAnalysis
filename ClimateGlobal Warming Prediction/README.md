@@ -27,7 +27,7 @@
 4. [Data Transformation](link) : Employs tecchniques e.g [Moving Average](link), [Exponential smoothing](link)
    -Done to `make the Data Stationary` 
 5. [Review With SARIMA with ACF and PACF](link) :AutoRegressive Ingtegrated Moving Average([ARIMA](link))
-
+    - How to find the [Autoregressive(p)](link), [Integrated(d)](link) and [Moving Averages(q)](link)
 ### Time Series Analysis Use Cases
 - Financial Analysis : Sales Forecasting, Inentory Analysis, Stock Prediction, Price Estimation, Momentum, etc
 - Weather Forecastion(Analysis): Temp change analysis, Global Climate Change, Seasonal Shift Recognition,
