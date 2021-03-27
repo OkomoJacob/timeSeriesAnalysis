@@ -1,5 +1,10 @@
 ## Global Warming and Climate Change Prediction using Time Series Analysis
-### Badges
+<hr>
+
+<img align="left" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"><br>
+![GitHub repo size](https://img.shields.io/github/repo-size/okomojacob/8d19d988d6f?color=green-yellow&logo=github&logoColor=blue) ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?logo=visual-studio-code) ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen) 
+![Forks](https://img.shields.io/github/forks/OkomoJacob/8d19d988d6f?style=social) ![APM](https://img.shields.io/apm/dm/vim-mode) ![shields](https://img.shields.io/opencollective/sponsors/0) ![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens) ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
+
 ### Contents:
 - What is Time Series Data and Time Series Analysis
 - Time Series Use Cases
@@ -65,3 +70,4 @@ LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around th
 Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
 ### Find Raw Data at :
 [Berkeley Earth data page](linkhere).
+
