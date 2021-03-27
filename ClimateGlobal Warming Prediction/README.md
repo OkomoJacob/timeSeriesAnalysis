@@ -16,10 +16,14 @@
 [Statstools](https)
 
 ### Steps in this Deep Learning Prediction
-
 1. [Data Preparation](link)
 2. [Data Analysis and Visualization](link) :Trend and Stationality
 3. [Test Stationary](link)
+   - Use [Dicky Fuller Test](link) to Test for The hypothesis.
+   - `Assumptions made for Any Stationary Time Series:`
+     - The `Mean of the Series` should not be a Function of Time, but should be `Constant`
+     - The `Variance of the Series` should not be a Function of Time, but should be `Constant`
+     - The `Covariance` of the `ith` and the `i+nth term of the Series` should not be a Function of Time, but should be `Constant`
 4. [Data Transformation](link) : Moving Average, Exponential smoothing
 5. [Review With SARIMA with ACF and PACF](link) :AutoRegressive Ingtegrated Moving Average([ARIMA](link))
 
