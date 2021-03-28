@@ -16,10 +16,10 @@
 [Statstools](https)
 
 ### Time Series Analysis Use Cases
-- Financial Analysis
-- Weather Forecastion
-- Health Care Analysis
-- Network Data Analysis
+- Financial Analysis : Sales Forecasting, Inentory Analysis, Stock Prediction, Price Estimation, Momentum, etc
+- Weather Forecastion(Analysis): Temp change analysis, Global Climate Change, Seasonal Shift Recognition,
+- Health Care Analysis : Network Usage Prediction,Predictive Maintanance, Intrusion Detection etc.
+- Network Data Analysis :Senses Prediction, Insurance benefit analysis
 
 It is an unmaskable fact that, lately, there has been a negative trend in the rate of Global Average Temp.This is negatively impacting the gloabl population as most(if not all) depend directly on the climate.
 ##### Negative impacts include but are not limited to:
