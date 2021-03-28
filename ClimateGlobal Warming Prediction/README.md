@@ -8,13 +8,18 @@
 #### Time Series Data and Time Series Analysis
 [Time Series(Time Stamped) Data](https://www.investopedia.com/terms/t/timeseries.asp) can be seen as temporal data, i.e that collected over time at fixed intervals repeatedly.
 
-[Time Series Analysis](link) Is the Statistical Act/Technique of collecting of Time Series Data and Trends and Anlyssing them.Purposely for [Monitoring of Nature of the Pheenomena](link) to aid in the [Forecasting](link) of measurable outcomes.
+[Time Series Analysis](link) Is the Statistical Act/Technique of collecting of Time Series Data and Trends and Anlyssing them.Purposely for [Monitoring of Nature of the Pheenomena](link) to aid in the [Forecasting](link) of measurable outcomes by extrapolating in time.
 ### Built With
 [Python3](https)
 [Data, CSV](https)
 [Statsmodels](https)
 [Statstools](https)
-### 
+
+### Time Series Analysis Use Cases
+- Financial Analysis
+- Weather Forecastion
+- Health Care Analysis
+- Network Data Analysis
 
 It is an unmaskable fact that, lately, there has been a negative trend in the rate of Global Average Temp.This is negatively impacting the gloabl population as most(if not all) depend directly on the climate.
 ##### Negative impacts include but are not limited to:
