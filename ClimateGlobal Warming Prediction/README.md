@@ -7,6 +7,8 @@
 
 #### Time Series Data and Time Series Analysis
 [Time Series(Time Stamped) Data](https://www.investopedia.com/terms/t/timeseries.asp) can be seen as temporal data, i.e that collected over time at fixed intervals repeatedly.
+
+[Time Series Analysis](link) Is the Statistical Act/Technique of collecting of Time Series Data and Trends and Anlyssing them.
 ### Built With
 [Python3](https)
 [Data, CSV](https)
