@@ -6,6 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/timeSeriesForecasting?style=social) ![APM](https://img.shields.io/apm/dm/vim-mode) ![shields](https://img.shields.io/opencollective/sponsors/0) ![GitHub top language](https://img.shields.io/github/languages/top/OkomoJacob/timeSeriesForecasting)
 
 #### Find Me on Twitter
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
 
 ### Contents:
 - What is Time Series Data and Time Series Analysis
