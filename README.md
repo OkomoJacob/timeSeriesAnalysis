@@ -1,6 +1,6 @@
 ## Time Series Forecasting : Extrapolation
 
-![Twitter Follow](https://img.shields.io/twitter/follow/okomojacob?style=social)
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
 
 Having known the level of association between the dependent and independent variables from analysis about the past, making predictions about the future, also known as `Extrapolation`, but lately refered to as `time series forecasting`. is possible.
 This is truest especially in the classical statistical modelling of time series data.
